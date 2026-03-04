@@ -14,7 +14,8 @@ La aplicación tendrá la siguientes pantallas
 
    <img width="430" height="932" alt="Desplegar menú" src="https://github.com/user-attachments/assets/deed9c77-c302-4d1f-af9e-503b4964c968" />
 
-7. Pantalla 5: Menú juegos  (Los juegos serán 3, y desde este menú se desplazará la pantalla a la derecha para elegir los otros juegos. La información de cada juego estará en la tarjeta. 
+7. Pantalla 5: Menú juegos  (Los juegos serán 3, y desde este menú se desplazará la pantalla a la derecha para elegir los otros juegos. La información de cada juego estará en la tarjeta.
+   
      Play al primer juego:
 
     <img width="438" height="940" alt="menú - juegos" src="https://github.com/user-attachments/assets/080676e1-59e3-4a87-8be4-e7aa3e255fe1" />
@@ -23,6 +24,8 @@ La aplicación tendrá la siguientes pantallas
     Play al segundo juego:
    
    <img width="438" height="940" alt="menú - juegos - 2" src="https://github.com/user-attachments/assets/4c956673-3828-4213-9dc8-845713b33f78" />
+
+   
      Play al tercer juego:
    
    <img width="438" height="940" alt="menú - juegos - 3" src="https://github.com/user-attachments/assets/91febd0e-4d1b-4874-b6c7-f80d1a9905ad" />
