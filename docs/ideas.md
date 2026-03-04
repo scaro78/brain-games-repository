@@ -68,6 +68,7 @@ Aplicaciones similares:
 Este juego se basa en la toma de decisiones que se encarga del futuro de un reino, donde cada decision afecta estadistcas dentro del juego; como la economia, la felicidad del pueblo, fuerza militar, etc...
 Teniendo en cuenta los valores de cada estadistica, se activaran ciertos eventos que determinaran la longevidad del rey en el poder.
 
+
 Aplicaciones similares:
 
 - ...  Reings, juegos similar: https://play.google.com/store/search?q=reings&c=apps&hl=es_419
