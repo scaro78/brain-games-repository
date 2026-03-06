@@ -33,7 +33,8 @@ La aplicación tendrá la siguientes pantallas
 9. Pantalla 6:  Juego de memoria
     
 <img width="430" height="932" alt="Juego Memoria" src="https://github.com/user-attachments/assets/1b7557f7-0f5f-4fc0-b353-185111fd5f63" />
-
+9. Pantalla 7:  Juego de reflejos
+<img width="428" height="927" alt="image" src="https://github.com/user-attachments/assets/a0083a9f-12e5-481f-b779-0e97ac6ae655" />
 
 
 
