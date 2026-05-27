@@ -5,9 +5,30 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: c18c61636c5f4f940a4f4427dd181257
+  - enabled: 1
+    path: Assets/Scenes/Inicio_Juego_memoria.unity
+    guid: 775450e5aa519254c84f0468ee549611
+  - enabled: 1
+    path: Assets/Scenes/Juego1.unity
+    guid: 16182308fb0b7f94bae39fa6963b69d2
+  - enabled: 1
+    path: Assets/Scenes/Juego_memoria.unity
+    guid: 315c690295e48404bb468a4e99245805
+  - enabled: 1
+    path: Assets/Scenes/Juego_memoria- Menu hamburguesa.unity
+    guid: f22b08f44b78e6541a9eafe11ae0b711
+  - enabled: 1
+    path: Assets/Scenes/Juegotopos.unity
+    guid: 42e5bc30c1d6e564eb0bd09f12394ce3
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3b5e1d8928ae32642b678d444babf96a
+  - enabled: 1
+    path: Assets/Scenes/Pantalla_carga (2).unity
+    guid: 31396b89bd4ae764b850993bb49eaaef
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
